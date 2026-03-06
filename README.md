@@ -8,5 +8,7 @@ To evaluate the proposed method, experiments were conducted on the public CrackS
 ![alt text](dataset.png)
 
 ## Experimental Results
+### Results on CrackSeg9k test dataset:
 ![alt text](crackseg9k.png)
+### Results on Fine-Crack test dataset:
 ![alt text](finecrack.png)
