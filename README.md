@@ -16,11 +16,15 @@ To evaluate the proposed method, experiments were conducted on the public [Crack
 ## Acknowledgements
 Most samples in the Fine-Crack dataset are derived from the following publicly available datasets. We express our special thanks to their authors and contributors. The original dataset names and links are listed below:
 
--[CrackForest](https://github.com/cuilimeng/CrackForest-dataset/tree/master)
--[DeepCrack](https://github.com/yhlleo/DeepCrack)
--[Rissbilder](https://link.springer.com/chapter/10.1007/978-981-15-9343-7_36)
--[CrackTree200](https://www.sciencedirect.com/science/article/abs/pii/S0167865511003795)
--[Crack500](https://ieeexplore.ieee.org/abstract/document/8694955/)
+[CrackForest](https://github.com/cuilimeng/CrackForest-dataset/tree/master)
+
+[DeepCrack](https://github.com/yhlleo/DeepCrack)
+
+[Rissbilder](https://link.springer.com/chapter/10.1007/978-981-15-9343-7_36)
+
+[CrackTree200](https://www.sciencedirect.com/science/article/abs/pii/S0167865511003795)
+
+[Crack500](https://ieeexplore.ieee.org/abstract/document/8694955/)
 
 This dataset would not have been possible without the authors and maintainers of the publicly available datasets listed above, whose open and reusable data work provided the foundation for this curated resource. We express our special thanks to all of them and to their contributors.
 
