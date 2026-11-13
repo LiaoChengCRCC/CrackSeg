@@ -10,7 +10,7 @@ Tunnel lining cracks are among the most common structural defects in operational
 ![alt text](finecrack.png)
 
 ## Datasets
-To evaluate the proposed method, experiments were conducted on the public [CrackSeg9k](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGIEBY) dataset and a newly constructed [Fine-Crack](https://pan.baidu.com/s/1UJ__0yXdcKAKgomYsf8ylA?pwd=gydv) dataset targeting fine-scale crack segmentation.
+To evaluate the proposed method, experiments were conducted on the public [CrackSeg9k](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGIEBY) dataset and a newly collected [Fine-Crack](https://pan.quark.cn/s/689dbc4f4572) dataset targeting fine-scale crack segmentation.
 ![alt text](dataset.png)
 
 ## Acknowledgements
